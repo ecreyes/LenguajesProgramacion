@@ -12,5 +12,7 @@ echo $colores[0];
 #los arreglos pueden contener valores de cualquier tipo
 $arreglo = [1,'dos',true];
 echo $arreglo[2];
-
+echo "</br>";
+#numero de elementos de un arreglo
+echo count($colores);
 ?>
